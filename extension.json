@@ -1,0 +1,13 @@
+{
+  "name": "Blair",
+  "version": "0.0.1",
+  "authors": [
+    "Blair Harris <blairehh@gmail.com>"
+  ],
+  "description": "Blair Theme",
+  "repository": "https://github.com/kwonoj/zed-blanche",
+  "themes": {
+    "Blair": "themes/blair.json"
+  }
+}
+
